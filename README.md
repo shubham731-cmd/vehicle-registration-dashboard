@@ -46,7 +46,7 @@ Setup Instructions
 Open http://localhost:8501 to view the dashboard.
 
 File Structure:
-vehicle-registration-dashboard/
+```vehicle-registration-dashboard/
 │
 ├── dashboard/
 │   ├── main.py
@@ -65,6 +65,7 @@ vehicle-registration-dashboard/
 ├── requirements.txt
 ├── .env
 └── README.md
+```
 
 BONUS-
 Investment Insight:
