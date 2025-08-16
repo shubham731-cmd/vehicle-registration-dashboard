@@ -27,10 +27,10 @@ Data Source & Assumptions:
 
 Setup Instructions
 1. Clone Repository
-    git clone https://github.com/yourusername/vehicle-registration-dashboard.git
-    cd vehicle-registration-dashboard
+    ```git clone https://github.com/yourusername/vehicle-registration-dashboard.git
+    cd vehicle-registration-dashboard```
 2. Set Up Python Environment
-    python -m venv venv
+    ```python -m venv venv```
     Activate the environment:
     For Windows:
     ```venv\Scripts\activate```
