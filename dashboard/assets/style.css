@@ -1,0 +1,12 @@
+/* Simple styling for Streamlit dashboard */
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+h1, h2, h3 {
+    color: #2E86C1;
+}
+.stMetric {
+    background-color: #f4f6f6;
+    padding: 15px;
+    border-radius: 10px;
+}
