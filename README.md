@@ -32,16 +32,18 @@ Setup Instructions
 2. Set Up Python Environment
     python -m venv venv
     Activate the environment:
-    # Windows:
-    venv\Scripts\activate
+    For Windows:
+    ```venv\Scripts\activate```
 3. Install Dependencies
-    pip install -r requirements.txt
+    ```pip install -r requirements.txt```
 
 4. Initialize Database & Insert Sample Data
+   ```
     python scripts/setup_database.py
     python scripts/generate_sample_data.py
-5. Run the Dashboard
-    streamlit run dashboard/main.py
+    ```
+6. Run the Dashboard
+    ```streamlit run dashboard/main.py```
 
 Open http://localhost:8501 to view the dashboard.
 
